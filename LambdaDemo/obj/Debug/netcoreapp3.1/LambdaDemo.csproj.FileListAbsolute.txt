@@ -1,0 +1,14 @@
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.exe
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.deps.json
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.runtimeconfig.json
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.runtimeconfig.dev.json
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.dll
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.pdb
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.csproj.AssemblyReference.cache
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.AssemblyInfoInputs.cache
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.AssemblyInfo.cs
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.dll
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.pdb
+C:\Users\Bahulya\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.genruntimeconfig.cache
